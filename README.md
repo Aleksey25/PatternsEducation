@@ -2,6 +2,7 @@
 
 - [SINGLETON](https://github.com/yavlanskiy/PatternsEducation/blob/master/src/main/java/Singleton/Info/singleton.md)
 - [STRATEGY](https://github.com/yavlanskiy/PatternsEducation/blob/master/src/main/java/Strategy/Info/strategy.md)
+- [TEMPLATE METHOD](https://github.com/yavlanskiy/PatternsEducation/blob/master/src/main/java/TemplateMethod/info/info.md)
 ---
 
 Отношения между классами
@@ -16,5 +17,6 @@
 Со стороны стрелки указывается независимая сущность.
 
 - ![обобщение](https://hsto.org/getpro/habr/post_images/aa6/efe/a5f/aa6efea5f552569c7fa6ce4e5603e684.png) - обобщение (generalization) — отношение наследования или реализации интерфейса. Со стороны стрелки находится суперкласс или интерфейс.
+![UML](https://i003.radikal.ru/1201/27/67ce95b0a0f3.jpg) 
 
 
